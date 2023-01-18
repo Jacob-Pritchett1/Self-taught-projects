@@ -26,6 +26,6 @@ print(reversed_stringy)
 # return stringy[::-1]
 
 
-#new_reversal = reversal("Our shadows taller than our souls")
+#new_reversal = reversal("Our shadows taller than our soul")
 
 # print(new_reversal)
